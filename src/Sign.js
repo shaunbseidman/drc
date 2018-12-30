@@ -9,10 +9,11 @@ export default class Sign extends Component {
         <div id="container">
             <div className="sign-three">
             <div className="dark">Dark</div>
-            <div className = "rose" > Rose < /div>
-            <div className = "club" >~ Club ~< /div>
+            <div className = "rose" > Rose </div>
+            <div className = "club"> ~ Club ~</div>
             </div>
         </div>
+        <small>Coming Soon...</small>
       </div>
     )
   }
