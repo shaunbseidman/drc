@@ -39,7 +39,7 @@ body {
     /* Chrome, Safari, Opera */
     color: #660022;
     font-family: lasenter;
-    font-size: 5vw;
+    font-size: 9vw;
     transform: rotate(-10deg);
     text-shadow:
         .1vw 0vw .25vw #28D7FE, .2vw 0vw .25vw #28D7FE, .4vw 0vw .25vw #28D7FE,
@@ -53,7 +53,7 @@ body {
 .rose {
     color: #660022;
     font-family: clipneon;
-    font-size: 4vw;
+    font-size: 7vw;
     margin-left: 14vw;
     margin-top: -.75vw;
     text-shadow:
@@ -68,7 +68,7 @@ body {
 
 .club {
     font-family: moon;
-    font-size: 6.3vw;
+    font-size: 8.3vw;
     margin-left: 1.5vw;
 }
 
@@ -152,8 +152,8 @@ body {
  .sign-four {
      color: #F0D6DE;
      font-family: clipneon;
-     font-size: 4rem;
-     line-height: 6vw;
+     font-size: 2vw;
+     line-height: 3vw;
      text-shadow:
          .1vw 0vw .25vw #F0D6DE, .2vw 0vw .25vw #F0D6DE, .4vw 0vw .25vw #F0D6DE,
          .1vw 0vw .1vw #F181B2, .2vw 0vw 0vw #F181B2, .4vw 0vw 0vw #F181B2,
