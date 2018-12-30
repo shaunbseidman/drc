@@ -8,12 +8,12 @@ export default class Sign extends Component {
       <div className='logo'>
         <div id="container">
             <div className="sign-three">
-            <div className="dark">Dark</div>
-            <div className = "rose" > Rose </div>
-            <div className = "club"> ~ Club ~</div>
+              <div className="dark">Dark</div>
+              <div className = "rose" > Rose </div>
+              <div className = "club"> ~ Club ~</div>
             </div>
-        </div>
-        <small>Coming Soon...</small>
+            <div class='sign-four'>Coming Soon...</div>
+          </div>
       </div>
     )
   }
