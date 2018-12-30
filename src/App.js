@@ -1,17 +1,16 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
+import Sign from './Sign'
 
 class App extends Component {
   render() {
     return (
       <div className="App">
         <header className="App-header">
-          {/* <img src={logo} className="App-logo" alt="logo" /> */}
           <p>
-            Dark Rose Club
+            {/* Dark Rose Club */}
           </p>
-          <small>coming soon suck my dick</small>
+          <Sign />
         </header>
       </div>
     );
